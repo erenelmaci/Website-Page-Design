@@ -80,7 +80,6 @@ ul li a {
 }
 .form-subscribe {
   display: flex;
-  /* justify-content: center; */
   align-items: center;
   padding-right: 0.7rem;
 }
@@ -125,13 +124,12 @@ form {
 }
 footer {
   background-color: #35424a;
-  position:relative;
+  position: relative;
   height: 12%;
   bottom: 0px;
   margin-top: 10rem;
   left: 0px;
   right: 0px;
-  /* margin-bottom: 0px; */
   text-align: center;
 }
 .footer-logo {
@@ -225,10 +223,10 @@ button {
 .form {
   padding: 2rem;
 }
-.form label{
-    display: block;
-    left: 0;
-    text-align: left;
+.form label {
+  display: block;
+  left: 0;
+  text-align: left;
 }
 .main-services {
   display: flex;
