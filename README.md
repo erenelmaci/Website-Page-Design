@@ -8,7 +8,6 @@
         |----about.html  
         |----services.html 		
         |----images (folder)
-```
 
 ## Expected Outcome
 
