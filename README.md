@@ -1,13 +1,17 @@
+## Project Skeleton 
+
+```
 004-website-page-design (folder)
 |
-|----readme.md                   
-|----images               
+|----readme.md         # Given to the students (Definition of the project)          
+|----images            # Given to the students (Images of the project)   
 |----solution
         |----index.html  
         |----style.css   
         |----about.html  
         |----services.html 		
         |----images (folder)
+```
 
 ## Expected Outcome
 
