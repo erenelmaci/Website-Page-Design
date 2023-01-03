@@ -233,3 +233,6 @@ button {
   justify-content: space-between;
   flex-direction: row;
 }
+main{
+  max-width: 100%;
+}
