@@ -1,4 +1,4 @@
-## Project  Skeleton 
+## Project Skeleton 
 
 ```
 004-website-page-design (folder)
