@@ -1,24 +1,20 @@
-## Project Skeleton 
+## Project Skeleton
 
 ```
 004-website-page-design (folder)
 |
-|----readme.md                
-|----images               
+|----readme.md
+|----images
 |----solution
-        |----index.html  
-        |----style.css   
-        |----about.html  
-        |----services.html 		
+        |----index.html
+        |----style.css
+        |----about.html
+        |----services.html
         |----images (folder)
 ```
 
 ## Expected Outcome
 
-![Project 006 Snapshot](Project_004_1.png)
-
-![Project 006 Snapshot](Project_004_2.png)
-
-![Project 006 Snapshot](Project_004_3.png)
-
-
+<img src='./img/Project_004_1.png' alt='desc'>
+<img src='./img/Project_004_2.png' alt='desc'>
+<img src='./img/Project_004_3.png' alt='desc'>
